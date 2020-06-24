@@ -1,0 +1,27 @@
+.wraper { 
+    width: 600px;
+    height: 450px;
+    background: lightsalmon;
+    margin: 0 auto;
+}
+.tabs-content {
+    background: lightblue;
+ }
+.tab-items {
+    width: 100px;
+    height: 100px;
+    background: lightgreen;
+ }
+.tabs-item {
+    font-size: 20px;
+ }
+ .active{
+     font-style: 20px;
+     font-weight: bold;
+ }
+ .show{
+     display: block;
+ }
+ .hide{
+     display: none;
+ }
